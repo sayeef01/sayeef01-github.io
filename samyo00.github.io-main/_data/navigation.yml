@@ -1,0 +1,40 @@
+# main links links
+main:
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Projects"
+  #   url: /projects/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  - title: Publications
+    url: /publications/
+
+
+  - title: Projects
+    url: /projects/
+
+  - title: Programming
+    url: /programming/
+
+  - title: "CV"
+    #url: /cv/
+    url: https://drive.google.com/drive/folders/1GlAUCQAmAPrFr9uWdhqpbHJqvBjg7EKj?usp=sharing       
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  
+  - title: "Bucket List"
+    url: /bucketlist/
+
+  - title: "Favorites"
+    url: /favorites/
+  
+  - title: "Photography"
+    url: /photography/
